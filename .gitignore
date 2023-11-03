@@ -3,8 +3,8 @@
 #wwwroot/
 
 # 
-bin
-obj
+/bin
+/obj
 
 ## User-specific files
 *.rsuser
